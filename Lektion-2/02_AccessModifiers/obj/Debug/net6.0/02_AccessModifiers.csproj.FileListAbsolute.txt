@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\bin\Debug\net6.0\02_AccessModifiers.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\bin\Debug\net6.0\02_AccessModifiers.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\bin\Debug\net6.0\02_AccessModifiers.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\bin\Debug\net6.0\02_AccessModifiers.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\bin\Debug\net6.0\02_AccessModifiers.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\refint\02_AccessModifiers.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\02_AccessModifiers.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\FEU21\Lektion-2\02_AccessModifiers\obj\Debug\net6.0\ref\02_AccessModifiers.dll

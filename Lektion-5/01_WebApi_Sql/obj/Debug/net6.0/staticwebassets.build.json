@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "caYDdmB2HIKc2a+N5KC5MSeypdX53T5fQkM2Qzo3ev0=",
+  "Source": "01_WebApi_Sql",
+  "BasePath": "_content/01_WebApi_Sql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
